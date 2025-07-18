@@ -24,10 +24,10 @@ Realizar un análisis exploratorio de datos para identificar patrones, tendencia
 
 ## 🧰 Tecnologías utilizadas
 
-- Python 3
-- pandas
-- seaborn
-- matplotlib
+- Python
+- Pandas
+- Seaborn
+- Matplotlib
 - Google Colab
 
 ## 📌 Conclusiones
@@ -44,6 +44,7 @@ Realizar un análisis exploratorio de datos para identificar patrones, tendencia
 
 Andrew Gonzales Zeña  
 Estudiante de Ingeniería de Sistemas & Ciencia de Datos  
-[andrew_gz1103@outlook.com](mailto:andrew_gz1103@outlook.com)
+📧 [andrew_gz1103@outlook.com](mailto:andrew_gz1103@outlook.com)
+🔗 [LinkedIn - Andrew Gonzales](www.linkedin.com/in/andrew-gonzales-emi)
 
 ---
